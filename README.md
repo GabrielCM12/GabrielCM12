@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Gabriel Matos!
 
-<!--
-**GabrielCM12/GabrielCM12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Sistemas de Informação (8º período)**  
+💻 Apaixonado por tecnologia, programação e resolução de problemas  
+🚀 Sempre em busca de aprender novas ferramentas e compartilhar conhecimento  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologias & Ferramentas
+
+- 🐍 Python  
+- 🌐 HTML | JavaScript  
+- 💡 C++  
+
+---
+
+## 📊 GitHub Stats
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight)
+
+---
+
+## 🌎 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)  
+
+---
+
+⭐️ Dica: Fixe no seu perfil os repositórios que mais representam seu trabalho (projetos acadêmicos, pessoais ou desafios que você curtiu desenvolver).
