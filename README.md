@@ -24,6 +24,6 @@
 ## 🌎 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)  
 
----
+---https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
 ⭐️ Dica: Fixe no seu perfil os repositórios que mais representam seu trabalho (projetos acadêmicos, pessoais ou desafios que você curtiu desenvolver).
