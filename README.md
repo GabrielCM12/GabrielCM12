@@ -1,7 +1,7 @@
-<!-- Banner -->
-![Banner](https://raw.githubusercontent.com/GabrielMatos/GabrielMatos/main/banner.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GabrielMatos/GabrielMatos/main/banner.png" alt="Banner Gabriel Matos" width="100%">
+</p>
 
-<h1 align="center">👋 Olá, eu sou o Gabriel Matos!</h1>
 
 <h1 align="center">👋 Olá, eu sou o Gabriel Costa Matos!</h1>
 
