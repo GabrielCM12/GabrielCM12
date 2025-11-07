@@ -1,4 +1,8 @@
-<!-- Cabeçalho principal -->
+<!-- Banner -->
+![Banner](https://raw.githubusercontent.com/GabrielMatos/GabrielMatos/main/banner.png)
+
+<h1 align="center">👋 Olá, eu sou o Gabriel Matos!</h1>
+
 <h1 align="center">👋 Olá, eu sou o Gabriel Costa Matos!</h1>
 
 <p align="center">
