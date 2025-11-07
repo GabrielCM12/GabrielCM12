@@ -1,29 +1,49 @@
-# 👋 Olá, eu sou o Gabriel Matos!
+<!-- Cabeçalho principal -->
+<h1 align="center">👋 Olá, eu sou o Gabriel Matos!</h1>
 
-🎓 Estudante de **Sistemas de Informação (8º período)**  
-💻 Apaixonado por tecnologia, programação e resolução de problemas  
-🚀 Sempre em busca de aprender novas ferramentas e compartilhar conhecimento  
+<p align="center">
+🎓 Estudante de <strong>Sistemas de Informação (8º período)</strong><br>
+💻 Apaixonado por tecnologia, programação e resolução de problemas<br>
+🚀 Sempre em busca de aprender novas ferramentas e compartilhar conhecimento
+</p>
 
 ---
 
 ## 🔧 Tecnologias & Ferramentas
 
-- 🐍 Python  
-- 🌐 HTML | JavaScript  
-- 💡 C++  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,js,cpp" alt="Tecnologias" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight)
+<div align="center">
+
+  <!-- Estatísticas gerais -->
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="Estatísticas do GitHub"/>
+
+  <!-- Linguagens mais usadas -->
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Linguagens mais usadas"/>
+
+</div>
 
 ---
 
 ## 🌎 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)  
 
----https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-costa-789053174/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
-⭐️ Dica: Fixe no seu perfil os repositórios que mais representam seu trabalho (projetos acadêmicos, pessoais ou desafios que você curtiu desenvolver).
+---
+
+<p align="center">
+  <i>✨ “Sempre evoluindo, um commit de cada vez.” ✨</i>
+</p>
