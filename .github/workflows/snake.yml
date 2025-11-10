@@ -12,10 +12,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # 👈 permite o bot fazer commit
+      contents: write
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate snake animation
         uses: Platane/snk@v3
@@ -26,12 +26,14 @@ jobs:
 
       - name: Push snake animation to output branch
         run: |
-          mkdir -p ./output
-          cp dist/github-contribution-grid-snake.svg ./output/
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git fetch origin
+          git checkout --orphan output
+          rm -rf ./*
+          cp dist/github-contribution-grid-snake.svg ./github-contribution-grid-snake.svg
           git add .
-          git commit -m "Generated snake animation" || echo "No changes to commit"
-          git push origin HEAD:output
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git commit -m "update snake animation"
+          git push -f origin output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
