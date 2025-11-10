@@ -61,8 +61,9 @@
 
 <!-- COBRINHA -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GabrielCM12/GabrielCM12/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/GabrielCM12/GabrielCM12/main/dist/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
+
 
 ---
 
